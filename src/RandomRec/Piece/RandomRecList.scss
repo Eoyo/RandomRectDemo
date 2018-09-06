@@ -1,0 +1,19 @@
+.random-rect {
+  position: relative;
+  width: 600px;
+  height: 400px;
+  border: 1px solid #aaa;
+  margin: 30px;
+  transition: all 0.5s;
+
+  .random-rect-block {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    width: 50px;
+    background: #d80;
+    box-shadow: 0 -1px 3px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+    transition: all 0.5s;
+  }
+}
