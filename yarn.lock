@@ -6203,9 +6203,9 @@ react-error-overlay@^4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-4.0.1.tgz#417addb0814a90f3a7082eacba7cee588d00da89"
 
-react-redux-actor@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/react-redux-actor/-/react-redux-actor-1.0.6.tgz#b8cf70a33c35a675922f48ddef4110ad1e0bd2d2"
+react-redux-actor@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/react-redux-actor/-/react-redux-actor-1.0.7.tgz#61090c9b241fd468b4986946023ddbdc517cf0a2"
   dependencies:
     "@types/react" "^16.4.7"
     "@types/react-redux" "^5.0.0"

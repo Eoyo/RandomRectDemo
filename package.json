@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
-    "react-redux-actor": "^1.0.6",
+    "react-redux-actor": "^1.0.7",
     "react-scripts-ts-antd": "2.15.1"
   },
   "scripts": {
